@@ -1,0 +1,15 @@
+{
+	"name": "starter-node-angular",
+	"version": "0.0.1",
+	"description": "My first MEAN project",
+	"main": "server.js",
+	"dependencies": {
+		"mongodb": "~2.0",
+		"express": "~4.5.1",
+		"mongoose": "~3.8.0",
+		"body-parser": "~1.4.2",
+		"method-override": "~2.0.2"
+	},
+	"author": "Sahibjot Saggu",
+	"license": "Apache 2.0"
+}
